@@ -1,5 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 const BASE_PATH = '/easy-chinese-app'
+
+if (import.meta.env.VITE_DEBUG_MODE === 'true') {
+  console.log('Это сборка для дебага)))')
+}
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
