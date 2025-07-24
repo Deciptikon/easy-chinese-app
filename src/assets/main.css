@@ -1,9 +1,10 @@
 /* src/assets/main.css */
+
 body {
   margin: 0;
   padding: 0;
-  background-color: #353535;
-  color: #f9f9f9;
+  background-color: var(--background-color);
+  color: var(--text-color);
   line-height: 1.6;
 }
 

@@ -16,6 +16,14 @@
 </template>
 
 <style>
+:root {
+  --primary-color: #88aaf9cb;
+  --secondary-color: hsla(265, 100%, 73%, 0.743);
+  --accent-color: #ff5252;
+  --text-color: #edf9ff;
+  --background-color: #353535;
+}
+
 /* Базовые стили */
 #app {
   font-family: Arial, sans-serif;
@@ -39,7 +47,7 @@ footer {
 }
 
 a {
-  color: #42b983;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
