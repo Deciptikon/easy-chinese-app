@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "char": "的",
+    "meaning": "притяжательная частица",
+    "pinyin": "de",
+    "type": "grammar"
+  },
+  {
+    "id": 2,
+    "char": "一",
+    "meaning": "один",
+    "pinyin": "yī",
+    "type": "number"
+  },
+  {
+    "id": 3,
+    "char": "人",
+    "meaning": "человек",
+    "pinyin": "rén",
+    "type": "noun"
+  },
+  {
+    "id": 4,
+    "char": "你好",
+    "meaning": "привет",
+    "pinyin": "nǐ hǎo",
+    "type": "phrase"
+  },
+  {
+    "id": 5,
+    "char": "谢谢",
+    "meaning": "спасибо",
+    "pinyin": "xièxie",
+    "type": "phrase"
+  },
+  {
+    "id": 6,
+    "char": "我爱你",
+    "meaning": "я тебя люблю",
+    "pinyin": "wǒ ài nǐ",
+    "type": "phrase"
+  },
+  {
+    "id": 7,
+    "char": "中国",
+    "meaning": "Китай",
+    "pinyin": "Zhōngguó",
+    "type": "noun"
+  },
+  {
+    "id": 8,
+    "char": "早上好",
+    "meaning": "доброе утро",
+    "pinyin": "zǎoshang hǎo",
+    "type": "phrase"
+  },
+  {
+    "id": 9,
+    "char": "不",
+    "meaning": "нет/не",
+    "pinyin": "bù",
+    "type": "adverb"
+  },
+  {
+    "id": 10,
+    "char": "很好",
+    "meaning": "очень хорошо",
+    "pinyin": "hěn hǎo",
+    "type": "phrase"
+  },
+  {
+    "id": 11,
+    "char": "三",
+    "meaning": "три",
+    "pinyin": "sān",
+    "type": "number"
+  },
+  {
+    "id": 12,
+    "char": "朋友",
+    "meaning": "друг",
+    "pinyin": "péngyou",
+    "type": "noun"
+  },
+  {
+    "id": 13,
+    "char": "对不起",
+    "meaning": "извините",
+    "pinyin": "duìbuqǐ",
+    "type": "phrase"
+  },
+  {
+    "id": 14,
+    "char": "爱",
+    "meaning": "любовь",
+    "pinyin": "ài",
+    "type": "verb"
+  },
+  {
+    "id": 15,
+    "char": "再见",
+    "meaning": "до свидания",
+    "pinyin": "zàijiàn",
+    "type": "phrase"
+  }
+]

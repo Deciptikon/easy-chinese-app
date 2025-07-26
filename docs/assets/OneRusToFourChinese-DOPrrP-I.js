@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as r,o as s}from"./index-DWh21b2q.js";const t={};function a(c,e){return s(),o("div",null,e[0]||(e[0]=[r("h1",null,"1 к 4",-1)]))}const u=n(t,[["render",a]]);export{u as default};

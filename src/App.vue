@@ -54,4 +54,18 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0px;
+}
 </style>
